@@ -1,0 +1,70 @@
+{
+  "allEmployees": [
+    {
+      "id": "101",
+      "username": "Alex",
+      "email": "alex@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "102",
+      "username": "Samuel",
+      "email": "samuel@gmail.com",
+      "status": "inactive"
+    },
+    {
+      "id": "103",
+      "username": "Maria",
+      "email": "maria@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "104",
+      "username": "James",
+      "email": "james@gmail.com",
+      "status": "inactive"
+    },
+    {
+      "id": "105",
+      "username": "Linda",
+      "email": "linda@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "106",
+      "username": "Robert",
+      "email": "robert@gmail.com",
+      "status": "inactive"
+    },
+    {
+      "id": "107",
+      "username": "Patricia",
+      "email": "patricia@gmail.com",
+      "status": "inactive"
+    },
+    {
+      "id": "108",
+      "username": "Barbara",
+      "email": "barbara@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "109",
+      "username": "Michael",
+      "email": "michael@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "110",
+      "username": "William",
+      "email": "william@gmail.com",
+      "status": "inactive"
+    },
+    {
+      "id": "111",
+      "username": "James",
+      "email": "james12@gmail.com",
+      "status": "active"
+    }
+  ]
+}
